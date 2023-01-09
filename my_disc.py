@@ -11,4 +11,4 @@ class MyClient(discord.Client):
             await message.server.send(f'{message.author.name}, as regras são:{os.linesep} ')
 
 client = MyClient()
-client.run('OTk3Njg5MzM2MjE0NTkzNjA2.G01XBq.7Xt4pR9sRbWafQggDmqYukSU1M8yemqeJUYg6A')
+client.run('') #here too my son
